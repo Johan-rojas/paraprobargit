@@ -14,6 +14,7 @@ int main()//haciendo coemntario
 
     return 0;
 }
+//Haciendo un comentariooooooo
 
 void reemplazar(char *cad){
 
